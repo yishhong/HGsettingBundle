@@ -1,0 +1,2 @@
+# HGsettingBundle
+master
